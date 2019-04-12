@@ -11,4 +11,4 @@ Followed by the song, movie, or name of the artist they're looking for more info
 
 For example, if one types node liri.js Heartache Tonight in the terminal, they will see this:
 
-TO THE TAs: I had trouble getting the screenshots uploaded. If you grade this before I get a chance to upload, please know I'm still trying (as of Friday, 11/12 at midnight)
+TO THE TAs: I had trouble getting the screenshots uploaded. If you grade this before I get a chance to upload, please know I'm still trying (as of Friday, 4/12 at midnight)
