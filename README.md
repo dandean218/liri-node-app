@@ -9,6 +9,7 @@ Depending on which, a user will type in the terminal one of the following:
   
 Followed by the song, movie, or name of the artist they're looking for more information about. 
 
-For example, if one types node liri.js Heartache Tonight in the terminal, they will see this:
+For example, if one types node liri.js spotify-this-song Heartache Tonight in the terminal, they will see this:
+
 
 TO THE TAs: I had trouble getting the screenshots uploaded. If you grade this before I get a chance to upload, please know I'm still trying (as of Friday, 4/12 at midnight)
